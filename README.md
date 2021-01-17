@@ -1,5 +1,5 @@
-<![![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
->
+<img src="cover/2.png">(https://www.adamalston.com/)
+
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
