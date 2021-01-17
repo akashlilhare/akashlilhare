@@ -1,4 +1,4 @@
-<img src="cover/2.png">(https://www.adamalston.com/)
+<img src="cover/3.png">(https://www.adamalston.com/)
 
 ### Languages
 
