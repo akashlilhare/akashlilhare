@@ -1,10 +1,12 @@
 <img src="cover/4.png">
 
+[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/akash-lilhare-739a80192/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akashlilhare14@gmail.com)](mailto:akashlilhare14@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:/)](https://manumanoj.me) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://www.linkedin.com/in/akash-lilhare-739a80192/)
 
-[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=dart)
+
 
 ### Languages
 
