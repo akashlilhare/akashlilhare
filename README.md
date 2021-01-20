@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/akash-lilhare-739a80192/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akashlilhare14@gmail.com)](mailto:akashlilhare14@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:/)]() 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akash__lilhare)](https://www.linkedin.com/in/akash-lilhare-739a80192/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&label=%20)](https://twitter.com/akash__lilhare)
 
 
 
@@ -10,7 +10,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=python)
 [![Dart](https://img.shields.io/static/v1?message=Dart&logo=dart&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=dart)
-[![C++](https://img.shields.io/badge/-C-000?&logo=C++&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=c++)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=C++&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=c++)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 
 
