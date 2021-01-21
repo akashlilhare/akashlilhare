@@ -16,7 +16,7 @@
 
 ### Technologies
 
-![Flutter](https://img.shields.io/static/v1?message=Flutter&logo=flutter&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+[![Flutter](https://img.shields.io/static/v1?message=Flutter&logo=flutter&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)]
 
 
 
