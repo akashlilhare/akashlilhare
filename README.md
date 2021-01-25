@@ -10,7 +10,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=python)
 [![Dart](https://img.shields.io/static/v1?message=Dart&logo=dart&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=dart)
-[![C++](https://img.shields.io/badge/C++-000?&logo=C++&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=c++)
+[![C++](https://img.shields.io/badge/-CPP-000?&logo=C++&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=c++)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 
 
