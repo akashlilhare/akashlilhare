@@ -2,15 +2,13 @@
 <h3 align="center">A passionate flutter developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashlilhare" alt="akashlilhare" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akash__lilhare" target="blank"><img src="https://img.shields.io/twitter/follow/akash__lilhare?logo=twitter&style=for-the-badge" alt="akash__lilhare" /></a> </p>
 
 - 💬 Ask me about **flutter and dart**
 
 - 📫 How to reach me **akashlilhare14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o4F4s3MARkxwglod2Xmc_t_bIgm0QxZ_/view?usp=sharing](https://drive.google.com/file/d/1o4F4s3MARkxwglod2Xmc_t_bIgm0QxZ_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1o4F4s3MARkxwglod2Xmc_t_bIgm0QxZ_/view?usp=sharing)
 
 - ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
 
