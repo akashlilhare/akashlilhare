@@ -1,31 +1,30 @@
-<!---
-<img src="cover/1.png">
--->
+<h1 align="center">Hi 👋, I'm Akash Lilhare</h1>
+<h3 align="center">A passionate flutter developer from India</h3>
 
-[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/akash-lilhare-739a80192/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akashlilhare14@gmail.com)](mailto:akashlilhare14@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:/)]() 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&label=%20)](https://twitter.com/akash__lilhare)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashlilhare&label=Profile%20views&color=0e75b6&style=flat" alt="akashlilhare" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashlilhare" alt="akashlilhare" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/akash__lilhare" target="blank"><img src="https://img.shields.io/twitter/follow/akash__lilhare?logo=twitter&style=for-the-badge" alt="akash__lilhare" /></a> </p>
 
-### Languages
+- 💬 Ask me about **flutter and dart**
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=python)
-[![Dart](https://img.shields.io/static/v1?message=Dart&logo=dart&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=dart)
-[![C++](https://img.shields.io/badge/-CPP-000?&logo=C++&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/akashlilhare?tab=repositories&q=&type=&language=c++)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+- 📫 How to reach me **akashlilhare14@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o4F4s3MARkxwglod2Xmc_t_bIgm0QxZ_/view?usp=sharing](https://drive.google.com/file/d/1o4F4s3MARkxwglod2Xmc_t_bIgm0QxZ_/view?usp=sharing)
 
-### Technologies
+- ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
 
-![Flutter](https://img.shields.io/static/v1?message=Flutter&logo=flutter&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/akash__lilhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash__lilhare" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashlilhare&show_icons=true&locale=en&layout=compact" alt="akashlilhare" /></p>
 
- <!--  <a href="https://www.akashlilhare.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=akashlilhare&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashlilhare&show_icons=true&locale=en" alt="akashlilhare" /></p>
 
-
-  
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashlilhare&html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashlilhare&exclude_repo=github-readme-stats,akashlilhare.github.io)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashlilhare&" alt="akashlilhare" /></p>
