@@ -1,4 +1,4 @@
-### Hi  👋, I'm Akash Lilhare
+# Hi  👋, I'm Akash Lilhare
 I am from Rajnandgaon, India. A place of beauty and nature. Since my childhood. I love art and design. I always try to design stuff from my unique point of view. I also love to create things that can be useful to others.
 
 I started coding since I was in high school. Coding is also an art for me. I love it and now I have the opportunity to design along with the coding. I find it interesting and I enjoyed the process lot.
