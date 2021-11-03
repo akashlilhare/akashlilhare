@@ -7,8 +7,6 @@ My vision is to make the world a better place. Now almost everything is becoming
 
 [![resume](https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=akash&logoColor=white)](https://drive.google.com/file/d/1dbaAqRGBACoHu6RYThPusmSbKdG9CkxL/view)
 
-
-
 ### Connect With Me
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-lilhare-739a80192)   [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashlilhare14@gmail.com) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akash__lilhare) [![website](https://img.shields.io/badge/website-FF00FF?style=for-the-badge&logo=About.me&logoColor=white)](https://akash-lilhare.netlify.app) 
 
