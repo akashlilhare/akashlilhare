@@ -41,9 +41,8 @@
 
 
 ## 🛒 Apps on Store
-![PlayStore](https://img.shields.io/badge/Beast%20Fitness-%2301560D.svg?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6652795005413832872) 
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Akash+Lilhare) 
-
+[![BeastFitness](https://img.shields.io/badge/Beast%20Fitness-%2301560D.svg?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6652795005413832872)
+[![PlayStore](https://img.shields.io/badge/Akash_Lilhare-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Akash+Lilhare) 
 
 ## 🎵 Music apps I use
  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
