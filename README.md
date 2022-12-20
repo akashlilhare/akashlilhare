@@ -23,6 +23,8 @@
 
 
 ## 🛒 Apps on Store
+
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=red&logoColor=white)]([https://play.google.com/store/apps/developer?id=Akash+Lilhare](https://play.google.com/store/apps/dev?id=6652795005413832872)) 
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Akash+Lilhare) 
 
 ## 🎵 Music apps I use
