@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 [![resume](https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=akash&logoColor=white)](https://drive.google.com/file/d/1dbaAqRGBACoHu6RYThPusmSbKdG9CkxL/view)
-
+[![website](https://img.shields.io/badge/buymeacoffee-FF00FF?style=for-the-badge&logo=About.me&logoColor=white)](https://buymeacoffee.com/tyz9prbazf)
 
 ## 🌐 Socials
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-lilhare-739a80192)   [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashlilhare14@gmail.com)
