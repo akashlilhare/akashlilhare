@@ -1,27 +1,31 @@
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Akash Lilhare</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashlilhare&label=Views&color=blue&style=plastic&style=for-the-badge" alt="akashlilhare" /> </p>
+## Akash Lilhare — Mobile Product Engineer
 
-# 💫 About Me :
-- 😄 Pronouns: He/His
-- 🌱 I’m currently learning more about Mobile Development.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+Flutter · Firebase · Node.js · AI Integration · 5 apps shipped · 1M+ downloads
 
-[![resume](https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=akash&logoColor=white)](https://drive.google.com/file/d/1dbaAqRGBACoHu6RYThPusmSbKdG9CkxL/view)
+--- 
+### What I build
 
-## 🌐 Socials
+Production mobile apps that ship, scale, and generate revenue. 
+- 🏋️ **Beast Fitness** — Fitness app I founded and built solo. 300K+ downloads, 5K daily active users, AdMob + IAP monetization. Live since 2021. 
+- 🛒 **Fyva** — Cross-platform e-commerce app (Flutter + Shopify Storefront API). AI-powered product recommendations · 15–20% checkout conversion improvement. 
+- 📦 **Ari Supply** — E-commerce app (US client). Improved retention + stability. Zero critical defects across bi-weekly releases. 
+- 🍔 **Food Club** — Full food delivery platform (consumer + partner apps). 30% faster order placement through flow optimisation. - 
+- ✈️ **Marg** — AI travel itinerary app using device GPS + LLM-based planning.
+
+ 
+---
+
+##  About Me
+[![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=akash&logoColor=white)](https://drive.google.com/file/d/1dbaAqRGBACoHu6RYThPusmSbKdG9CkxL/view)
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-lilhare-739a80192)   [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashlilhare14@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akash__lilhare) 
 [![website](https://img.shields.io/badge/website-FF00FF?style=for-the-badge&logo=About.me&logoColor=white)](https://akash-lilhare.netlify.app)
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14102180/akash-lilhare)
+[![BeastFitness](https://img.shields.io/badge/Beast%20Fitness-%2301560D.svg?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6652795005413832872)
 
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -36,37 +40,6 @@
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+ 
 
-
-## 🛒 Apps on Store
-[![BeastFitness](https://img.shields.io/badge/Beast%20Fitness-%2301560D.svg?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6652795005413832872)
-[![PlayStore](https://img.shields.io/badge/Akash_Lilhare-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Akash+Lilhare) 
-
-## 🎵 Music apps I use
- <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
-
-
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashlilhare&theme=vue"/>
-</p>
-
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashlilhare&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashlilhare&theme=vue" />
-</p>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
----
-[![](https://visitcount.itsvg.in/api?id=akashlilhare&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
