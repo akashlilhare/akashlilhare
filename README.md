@@ -1,7 +1,7 @@
 
 ## Akash Lilhare — Mobile Product Engineer
 
-Flutter · AI-Powered Apps · Firebase · Node.js · 5 apps shipped · 1M+ downloads
+Flutter · AI-Powered Apps · Firebase · Node.js · 4+ Years Experience · 10+ apps shipped · 1M+ downloads
 
 --- 
 ### Selected Projects
